@@ -2,7 +2,7 @@
 
 ## 1. Tecnologias Utilizadas
 - **Linguagens:** HTML5, CSS3, JavaScript.
-- **Framework CSS:** Bootstrap 5 (utilizando Flexbox/Grid nativos).
+- **Framework CSS:** Bootstrap v5.3.3 (utilizando Flexbox/Grid nativos).
 - **Pré-processador:** Sass (SCSS) para modularização.
 - **Bibliotecas JS:** jQuery e jQuery Mask Plugin.
 - **Armazenamento Local:** Web Storage (localStorage/sessionStorage).
@@ -23,7 +23,7 @@ A persistência de dados usará duas entidades principais:
 2. `personagens` (id, campanhaId, nome, raca, classe, nivel)
 
 ## 4. Integração de API Pública
-- **API Escolhida:** OpenWeather API.
+- **API Escolhida:** OpenWeather API v2.5.
 - **Uso:** Será consumida na tela inicial para exibir o clima atual real e sugerir aos mestres uma "condição climática" para o início da sessão de RPG.
 
 ## 5. Componentes do Framework CSS
